@@ -1,2 +1,2 @@
-# -my-e-bible.github.io
+# My E-Bible
 https://my-e-bible.github.io/
